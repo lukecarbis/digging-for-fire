@@ -1,6 +1,7 @@
 ---
 title: "Cozy"
 date: 2024-12-31T17:30:00+1000
+lastmod: 2024-01-02T08:00:00+1000
 categories:
   - Web
 ---
