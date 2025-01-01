@@ -16,5 +16,5 @@ menus:
     weight: 30
   footer:
   - name: RSS
-    pageRef: /posts/index.xml
+    url: /posts/index.xml
     weight: 10
