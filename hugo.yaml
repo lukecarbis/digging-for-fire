@@ -3,3 +3,14 @@ languageCode: "en-au"
 title: "Digging for Fire"
 description: "Welcome to Saadia's weblog."
 theme: "smol"
+menus:
+  main:
+  - name: About
+    pageRef: /about
+    weight: 10
+  - name: Blogroll
+    pageRef: /blogroll
+    weight: 20
+  - name: Contact
+    pageRef: /contact
+    weight: 30

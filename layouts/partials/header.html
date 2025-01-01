@@ -1,0 +1,14 @@
+<header>
+	<p>
+		====🪏=================<br>
+		== <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> ==<br>
+		================🔥====
+	</p>
+	<nav>
+		{{ with .Site.Menus.main }}
+		{{ range . }}
+		<a href="{{ .URL | relURL }}"><b>{{ .Name }}</b></a>
+		{{ end }}
+	</nav>
+	{{ end }}
+</header>
