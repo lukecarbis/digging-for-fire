@@ -1,5 +1,5 @@
 ---
-title: "Cozy"
+title: Cozy
 date: 2024-12-31T17:30:00+1000
 lastmod: 2024-01-02T08:00:00+1000
 categories:
@@ -103,4 +103,4 @@ It turns out that Open Web idealism might have been no more than a fast-track to
 
 The internet has changed, but the good news is that it’s still changing. Not everyone is going adjust their daily dopamine diet, but there’s a growing group of ~~troublemakers~~ conscientious objectors who are building a better, cosier, web.
 
-[^1]: I’m spelling Cozy with an American English zed for consistency with the original term.
+[^1]: I’m spelling Cozy with an American English *zed* for consistency with the original term.
