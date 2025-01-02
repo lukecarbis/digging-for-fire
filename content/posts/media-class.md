@@ -1,5 +1,5 @@
 ---
-title: The Most Important Class
+title: Media Literacy
 date: 2025-01-02T08:30:00+1000
 lastmod: 2025-01-02T08:30:00+1000
 categories:
