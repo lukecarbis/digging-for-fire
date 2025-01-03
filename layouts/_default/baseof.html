@@ -12,7 +12,6 @@
 	{{ range .Site.Params.customCSS -}}
 		<link rel="stylesheet" href="{{ . | relURL }}?rnd={{ now.Unix }}">
 	{{- end }}
-	<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEUAAAAiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiJ0qFp1AAAAHHRSTlMA95gR30MyK+3itQtvaBwEqHFZOfDWxsVMSzol/Tx2SwAAAKNJREFUOMvdkssSgyAMRQmIvBSs9t38/3fWIRRxka4dz+5M7jDkIQ6H8dZ6w9c14AosbKDDzI2rf7AQmUCPBe4XCah+FRwXCoyCTwAiDOIPYXkHcVSS0ap1pU1qXTtElKH2Ild1upkxjXD6+ZQV+hrwSPT7nfgasLib8VjUNndAzKRz0a4GJGYgkkYgl1tT9ETd0pDVqaZt2cH9ufnrAU4qcR6+JSoQOknh+wwAAAAASUVORK5CYII=" />
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="/posts/index.xml" title="%s">` .Rel .MediaType.Type $.Site.Title | safeHTML }}
 	{{- end }}
