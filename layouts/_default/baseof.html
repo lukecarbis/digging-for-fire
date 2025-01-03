@@ -12,6 +12,7 @@
 	{{ range .Site.Params.customCSS -}}
 		<link rel="stylesheet" href="{{ . | relURL }}?rnd={{ now.Unix }}">
 	{{- end }}
+	<link rel="icon" type="image/png" href="{{ (resources.Get "icon.png").RelPermalink }}">
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="/posts/index.xml" title="%s">` .Rel .MediaType.Type $.Site.Title | safeHTML }}
 	{{- end }}
