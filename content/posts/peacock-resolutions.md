@@ -44,7 +44,7 @@ My children love writing, especially Eli. It's inspired me to be a more active w
 
 As of this writing, my streak is 896, so this shouldn't be too hard. More difficult will be my secondary goal of completing the Italian course.
 
-### Read 24 books.
+### Read 25 books.
 
 This is way down on the 52 books I read in 2022, but that was pretty intense. I read 25 books in 2024, so this will be challenging but achievable.
 
