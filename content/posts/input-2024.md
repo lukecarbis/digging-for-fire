@@ -8,9 +8,9 @@ categories:
 
 Since 2021, I've recorded every Book, Film, and Television series I've seen each year.
 
-Usually, I'll write a round-up post at the end of the year with long lists of every title. For 2024 year, I've decided to keep it a little more succinct.
+Usually, I'll write a round-up post at the end of the year with long lists of every title. For my 2024 roundup, I've decided to keep it a little more succinct.
 
-Those who know me know that I think a lot about Input and Output. What creative information do I take in, and what creative acts do I undertake. I believe a healthy mind has a good balance between these two.
+Those who know me know that I think a lot about Input and Output. What creative information do I take in, and what creative acts do I undertake? I believe a healthy mind has a good balance between these two.
 
 Here are the best and worst of my Inputs for 2024.
 
@@ -24,7 +24,7 @@ There was a conscious effort on my behalf to try new mediums. In 2023, my readin
 
 ### Book of the Year: The Swallowed Man by Edward Carey
 
-An unforgettably woeful tale of Geppetto, the father of *The Wooden Boy*, Pinocchio. The audiobook was particularly engaging. It's read by the author, who, despite not having a particularly charming radio voice, must surely have *some* background in theatre. Touching and poignant are such overused words, so I'll simply say that this story burrows – no, *dives* – deep, lodging itself, and lighting up in the dark corners of your inner self.
+An unforgettably woeful tale of Geppetto, the father of *The Wooden Boy*, Pinocchio. The audiobook was great – and if you can, I'd recommend listening this way. It's read by the author, who, despite not having a particularly charming radio voice, must surely have *some* background in theatre. Touching and poignant are such overused words, so I'll simply say that this story burrows – no, *dives* – deep, lodging itself, and lighting up in the dark corners of your inner self.
 
 ### Runner Up: The Great Undoing by Sharlene Allsopp
 A thought-provoking and character-focused hard sci-fi, set in a near future apocalypse where *Australia* has become the dominant world power.
@@ -39,7 +39,7 @@ In 2024 I saw 41 movies. Of these, 34% were seen in a cinema, 29% on my televisi
 
 ### Film of the Year: Monkey Man, directed by Dev Patel
 
-I'm a sucker for a good, stupid, action film. Give me Fast & Furious, give me Taken, give me John Wick. And Monkey Man does. It's been described as an Indian John Wick – a fair comparison, but it's a lot more than that too. This film has a lot more heart than your typical shoot-em-up fare, plus the beautifully gritty backdrop of subcontinent slums. Sitting below all that are themes of poverty, the caste system, and Hindu nationalism. It's become my favourite action film, and my go to recommendation for anyone who enjoys the genre. This was Dev Patel's directorial debut, and I cannot wait to see what he creates next.
+I'm a sucker for a good, stupid, action film. Give me Fast & Furious, give me Taken, give me John Wick. And Monkey Man does. It's been described as an Indian John Wick – a fair comparison, but it's a lot more than that too. This film has a lot more heart than your typical shoot-em-up fare, plus the beautifully gritty backdrop of subcontinent slums. Hiding underneath it all are themes of poverty, the caste system, and Hindu nationalism. It's become my favourite action film, and my go to recommendation for anyone who enjoys the genre. This was Dev Patel's directorial debut, and I cannot wait to see what he creates next.
 
 ### Runner Up: Napoleon, directed by Ridley Scott
 
