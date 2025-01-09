@@ -23,6 +23,8 @@ So how would you know when I've posted something new? You're not going to go che
 
 You might have heard about this "Indie Web" movement, also called the "Small Web", "Web 1.0", or "Geocities Web". It's a push to reclaim something about the internet that we lost along the way. I think that _something_ was, specifically, RSS.
 
+<!--more-->
+
 The best web died on [July 1, 2013](http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html).
 
 In the days following it's closure, Marco Arment suggested that the shutdown of Google Reader was [a strategic move to push users toward sharing content on Google+](https://www.fastcompany.com/3013890/reader-may-have-died-to-feed-googles-apis). While the plan didn’t fully succeed, the overarching trend became clear: RSS feeds were on the way out, and social networks were taking their place.
