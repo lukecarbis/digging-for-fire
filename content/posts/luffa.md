@@ -3,7 +3,7 @@ title: Loofah
 date: 2025-01-07T15:00:00+1000
 lastmod: 2025-01-07T15:00:00+1000
 categories:
-  - Garden
+  - Gardening
 ---
 
 Growing up, we always showered using (what my Italian mother called) a straccio. It wasn't until I was old enough to shop for myself that I encountered the plastic "shower puff", known also as a loofah[^1].

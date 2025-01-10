@@ -3,7 +3,7 @@ title: App Defaults
 date: 2025-01-06T08:30:00+1000
 lastmod: 2025-01-06T08:30:00+1000
 categories:
-  - Tech
+  - Work
 ---
 
 Inspired by [Tobias Horvath](https://tobyx.com/2024/defaults) (and a whole bunch of other bloggers), here are my [App Defaults](https://defaults.rknight.me).

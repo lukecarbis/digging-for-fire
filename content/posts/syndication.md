@@ -1,7 +1,7 @@
 ---
 title: Syndication
 date: 2025-01-09T16:00:00+1000
-lastmod: 2025-01-09T16:00:00+1000
+lastmod: 2025-01-10T14:00:00+1000
 categories:
   - Web
 ---
@@ -36,3 +36,9 @@ RSS lives on in podcasting. It's a remnant of the Indie-Web which persisted, and
 Here's an app idea: Imagine a mashup of Apple Podcasts and Apple News. Your feeds are arranged in beautiful bento layouts, and a Discovery tab helps you find more blogs to follow. There's a section called "Recommended based on my Feeds", and another called "New Perspectives to Explore".
 
 The truth is that the audience for this blog is limited to those who have a habit of using an RSS reeder, and that's a pretty small demographic. I'd love to see an initiative that included RSS education, promotion, and discovery. What could we do to bring back RSS?
+
+---
+
+**Update:** As though to further confirm the idea that RSS is dead, I was having coffee with Rob yesterday. He's a marketing manager for a big tech company. He's worked in tech his whole career. I asked him whether he uses an RSS reader and he laughed at the idea.
+
+Today, another friend came around – Jeremy. He's an avid gardener, and started [an amazing substack](https://jeremyharmon.substack.com) related to gardening and caring for the planet. I told him that he should write a new post, and that I'd add his substack to my RSS feeds. He replied, "What's that?".
