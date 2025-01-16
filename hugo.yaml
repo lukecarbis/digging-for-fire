@@ -20,6 +20,9 @@ menus:
   - name: Contact
     pageRef: /contact
     weight: 30
+  - name: Subscribe
+    pageRef: /subscribe
+    weight: 40
   footer:
   - name: RSS
     url: /posts/index.xml

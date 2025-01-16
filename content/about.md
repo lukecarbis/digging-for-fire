@@ -4,7 +4,7 @@ Digging for Fire is a blog about technology and education (and sometimes gardeni
 
 ## Who writes DfF?
 
-Hi, I'm Saadia. I'm a homeschooling Dad, with a Bachelor Degree in Learning Design, currently studying a Master's of Teaching (Secondary). I've been working in tech my whole career, currently as a sponsored open-source contributor.
+Hi, I'm Saadia Carbis. I'm a homeschooling Dad, with a Bachelor Degree in Learning Design, currently studying a Master's of Teaching (Secondary). I've been working in tech my whole career, currently as a sponsored open-source contributor.
 
 Aside from programming all day and hanging out with my kids, I also enjoy playing music, going to the movies, and gardening. Pretty conventional hobbies, I guess!
 
