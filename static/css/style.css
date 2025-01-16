@@ -15,3 +15,4 @@ footer {font-size: 12px;}
 a.logo {color: var(--fontcolor); text-decoration: none}
 a.logo:hover .shadow {color: var(--linkcolor)}
 input[type=text] {font-family: monospace; padding: 4px 6px; border: 1px solid var(--fontcolor);}
+.pagination {margin-top: 40px;}
