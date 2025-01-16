@@ -12,3 +12,5 @@ figure {margin: auto}
 img {display: block; max-width: 100%; height: auto; margin: auto}
 hr {margin-block-start: 2rem; margin-block-end: 2rem; border-top-width: 0; border-left-width: 0}
 footer {font-size: 12px;}
+a.logo {color: var(--fontcolor); text-decoration: none}
+a.logo:hover .shadow {color: var(--linkcolor)}
