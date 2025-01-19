@@ -1,7 +1,6 @@
 baseURL: "https://diggingforfire.blog/"
 languageCode: "en-au"
 title: "Digging for Fire"
-description: "Welcome to Saadia's weblog."
 theme: "smol"
 markup:
   goldmark:
@@ -30,3 +29,15 @@ menus:
   - name: Email
     url: https://buttondown.com/saadia
     weight: 20
+outputs:
+  home:
+    - html
+    - rss
+    - podcast
+outputFormats:
+  podcast:
+    mediatype: "application/rss+xml"
+    baseName: "podcast"
+    isPlainText: false
+    noUgly: true
+    path: /

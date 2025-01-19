@@ -3,6 +3,8 @@ title: Syndication
 date: 2025-01-09T16:00:00+1000
 lastmod: 2025-01-10T14:00:00+1000
 audio: https://archive.org/download/digging-for-fire/syndication.mp3
+audiolength: 2291723
+audioduration: 00:04:32
 categories:
   - Web
 ---

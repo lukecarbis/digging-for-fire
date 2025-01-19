@@ -3,6 +3,8 @@ title: Kookaburra
 date: 2024-12-24T16:30:00+1000
 lastmod: 2024-12-24T16:30:00+1000
 audio: https://archive.org/download/digging-for-fire/kookaburra.mp3
+audiolength: 766675
+audioduration: 00:01:10
 categories:
   - Poetry
 ---

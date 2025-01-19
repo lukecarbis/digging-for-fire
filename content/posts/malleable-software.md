@@ -3,6 +3,8 @@ title: Malleable Software
 date: 2025-01-17T10:30:00+1000
 lastmod: 2025-01-17T10:30:00+1000
 audio: https://archive.org/download/digging-for-fire/malleable-software.mp3
+audiolength: 3025728
+audioduration: 00:06:04
 categories:
   - AI
 ---

@@ -3,6 +3,8 @@ title: Turn-Based Podcasting
 date: 2025-01-10T14:00:00+1000
 lastmod: 2025-01-10T14:00:00+1000
 audio: https://archive.org/download/digging-for-fire/turn-based-podcasting.mp3
+audiolength: 4375893
+audioduration: 00:08:53
 categories:
   - Podcasts
 ---

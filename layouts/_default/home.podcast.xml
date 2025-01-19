@@ -1,0 +1,61 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" 
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>{{ .Site.Title }}</title>
+	<link>{{ .Site.BaseURL }}</link>
+	<description>This is the audioblog stream for Digging for Fire, a blog about technology and education (and sometimes gardening).</description>
+	<language>{{ .Site.LanguageCode }}</language>
+	<lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+	<atom:link href="{{ "podcast.xml" | absURL }}" rel="self" type="application/rss+xml"/>
+	
+	{{/* iTunes specific tags */}}
+	<itunes:author>Saadia Carbis</itunes:author>
+	<itunes:image href="{{ "podcast.png" | absURL }}"/>
+	<itunes:subtitle text="This is the audioblog stream for Digging for Fire, a blog about technology and education (and sometimes gardening)."/>
+	<itunes:category text="Technology"/>
+	<itunes:category text="Education"/>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:owner>
+		<itunes:name>Saadia Carbis</itunes:name>
+		<itunes:email>saadia@carb.is</itunes:email>
+	</itunes:owner>
+
+	{{ range where (where .Site.RegularPages "Section" "posts") "Params.audio" "!=" nil }}
+	<item>
+	  <title>{{ .Title }}</title>
+	  <link>{{ .Permalink }}</link>
+	  <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+	  <guid>{{ .Permalink }}</guid>
+	  <description>{{ .Summary | html }}</description>
+	  
+	  {{/* Audio enclosure */}}
+	  {{ if isset .Params "audiolength" }}
+	  	{{ $audiolength := .Params.audiolength }}
+	  	{{ with .Params.audio }}
+		  <enclosure url="{{ . }}" type="audio/mpeg" length="{{ $audiolength }}"/>
+	  	{{ end }}
+	  {{ else }}
+		{{ with .Params.audio }}
+		  <enclosure url="{{ . }}" type="audio/mpeg"/>
+		{{ end }}
+	  {{ end }}
+	  
+	  {{/* iTunes specific item tags */}}
+	  <itunes:title>{{ .Title }}</itunes:title>
+	  <itunes:author>{{ $.Site.Params.author }}</itunes:author>
+	  {{ with .Params.audioduration }}
+		 <itunes:duration>{{ . }}</itunes:duration>
+	  {{ end }}
+	  {{ with .Params.audiolength }}
+			  <itunes:length>{{ . }}</itunes:length>
+		  {{ end }}
+	  <itunes:summary>{{ .Summary | html }}</itunes:summary>
+	  <itunes:explicit>false</itunes:explicit>
+	</item>
+	{{ end }}
+	
+  </channel>
+</rss>

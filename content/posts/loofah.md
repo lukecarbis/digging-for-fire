@@ -3,6 +3,8 @@ title: Loofah
 date: 2025-01-07T15:00:00+1000
 lastmod: 2025-01-07T15:00:00+1000
 audio: https://archive.org/download/digging-for-fire/loofah.mp3
+audiolength: 2704103
+audioduration: 00:05:12
 categories:
   - Gardening
 ---
