@@ -2,6 +2,7 @@
 title: Media Literacy
 date: 2025-01-02T08:30:00+1000
 lastmod: 2025-01-02T08:30:00+1000
+audio: https://archive.org/download/digging-for-fire/media-literacy.mp3
 categories:
   - Education
 ---

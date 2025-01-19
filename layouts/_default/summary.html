@@ -1,6 +1,7 @@
 <article>
 	<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
 	<b><time>{{ .Date.Format (default "2006-01-02" .Site.Params.dateFmt) }}</time></b>
+	{{ partial "audio-player.html" . }}
 	{{ range .Params.tags }}
 	<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
 	{{ end }}

@@ -16,3 +16,5 @@ a.logo {color: var(--fontcolor); text-decoration: none}
 a.logo:hover .shadow {color: var(--linkcolor)}
 input[type=text] {font-family: monospace; padding: 4px 6px; border: 1px solid var(--fontcolor);}
 .pagination {margin-top: 40px;}
+details.audio summary {margin-top: 1em; cursor: pointer; color: var(--linkcolor); display: inline-block;}
+details.audio audio {margin-top: 1em; display: block;}

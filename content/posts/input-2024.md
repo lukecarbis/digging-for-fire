@@ -2,6 +2,7 @@
 title: Input 2024
 date: 2025-01-08T10:30:00+1000
 lastmod: 2025-01-08T10:30:00+1000
+audio: https://archive.org/download/digging-for-fire/input-2024.mp3
 categories:
   - Input
 ---

@@ -6,6 +6,7 @@
 			{{- if and (.Lastmod) (ne .Lastmod .Date) -}}
 				&nbsp;(Updated <time>{{ .Lastmod.Format (default "2006-01-02" .Site.Params.dateFmt) }}</time>)
 			{{- end }}
+			{{ partial "audio-player.html" . }}
 			{{ range .Params.tags }}
 		           <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
 			{{ end }}

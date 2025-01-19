@@ -1,0 +1,8 @@
+{{ if .Params.audio }}
+<details class="audio" ontoggle="if(this.open){const a=this.querySelector('audio');a.querySelector('source').src=a.querySelector('source').dataset.src;a.load();a.play()}else{this.querySelector('audio').pause()}">
+	<summary>Listen to this post</summary>
+	<audio controls>
+		<source data-src="{{ .Params.audio }}" type="audio/mpeg">
+	</audio>
+</details>
+{{ end }}

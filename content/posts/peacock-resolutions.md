@@ -2,6 +2,7 @@
 title: Peacock Resolutions
 date: 2025-01-03T09:00:00+1000
 lastmod: 2025-01-03T09:00:00+1000
+audio: https://archive.org/download/digging-for-fire/peacock-resolutions.mp3
 categories:
   - Reflections
 ---

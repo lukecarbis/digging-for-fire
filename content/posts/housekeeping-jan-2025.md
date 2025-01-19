@@ -2,6 +2,7 @@
 title: Housekeeping
 date: 2025-01-16T14:30:00+1000
 lastmod: 2025-01-16T14:30:00+1000
+audio: https://archive.org/download/digging-for-fire/housekeeping-jan-2025.mp3
 categories:
   - Web
 ---

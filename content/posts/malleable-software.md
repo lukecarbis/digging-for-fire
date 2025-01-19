@@ -2,6 +2,7 @@
 title: Malleable Software
 date: 2025-01-17T10:30:00+1000
 lastmod: 2025-01-17T10:30:00+1000
+audio: https://archive.org/download/digging-for-fire/malleable-software.mp3
 categories:
   - AI
 ---
@@ -9,8 +10,6 @@ categories:
 Ben Thompson's [aggregation theory](https://stratechery.com/aggregation-theory/) posits that the internet created an entirely new disruptive business paradigm, because for the first time in history, products could be distributed with zero marginal cost.
 
 Now, large language models have triggered a second wave of disruption: while the internet eliminated distribution costs, AI is eliminating creation costs – making software essentially free at every stage.
-
-Now, large language models have triggered a second disruption: while the internet drove marginal costs to zero, AI is driving down the up-front costs.
 
 Internet = zero *marginal* cost
 Internet + LLMs = zero *total* cost[^1]

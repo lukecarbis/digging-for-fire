@@ -2,6 +2,7 @@
 title: Circle of Fifths
 date: 2025-01-13T07:30:00+1000
 lastmod: 2025-01-13T07:30:00+1000
+audio: https://archive.org/download/digging-for-fire/circle-of-fifths.mp3
 categories:
   - Music
 ---
