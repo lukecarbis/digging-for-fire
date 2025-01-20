@@ -16,7 +16,7 @@
 	<nav>
 		{{ with .Site.Menus.main }}
 		{{ range . }}
-		<a href="{{ .URL | relURL }}"><b>{{ .Name }}</b></a>
+	<a href="{{ .URL | relURL }}" {{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}class="active"{{ end }}>{{ .Name }}</a>
 		{{ end }}
 	</nav>
 	{{ end }}
