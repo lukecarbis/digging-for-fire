@@ -31,7 +31,7 @@ The way I see it, a podcast production workflow requires three keys steps[^1].
 This step is well covered by existing tools. You could use music production software like Logic or Garageband, a simpler tool like Voice Memos or Quicktime, or a SaaS that also handles video calls like [Riverside](https://riverside.fm). Most of these tools have native Mac and iOS apps. Most are easy to use and well established.
 
 ### 2. Edit
-When it comes time to edit, things get a little trickier. You could learn some of the more advanced features of Logic or Garageband, keeping the editing and recording software the same. Or you could try AI tools like [Descript](http://descript.com) which automatically trim silences and remove filler words. Many podcasters swear by [Ferrite](https://apps.apple.com/au/app/ferrite-recording-studio/id1018780185), an iPadOS native app that makes podcast editing famously simple using the Apple Pencil. Again, there are many native apps, and while editing software can be more complex, there's lots of help to be found online.
+When it comes time to edit, things get a little trickier. You could learn some of the more advanced features of Logic or Garageband, keeping the editing and recording software the same. Or you could try AI tools like [Descript](http://descript.com) which automatically trims silences and remove filler words. Many podcasters swear by [Ferrite](https://apps.apple.com/au/app/ferrite-recording-studio/id1018780185), an iPadOS native app that makes podcast editing famously simple using the Apple Pencil. Again, there are many native apps, and while editing software can be more complex, there's lots of help to be found online.
 
 ### 3. Publish
 This is where things take a bit of a turn. You've recorded and edited your podcast in Garageband, and managed to export it as an M4A file. Now what? Or maybe you recorded in Voice Memos on your iPad, and edited using Ferrite. Again, what to do now that you've exported that file?
@@ -56,7 +56,7 @@ A podcast publishing app should support any hosting provider. Why learn a whole 
 
 ### 3. Support to Self-Host
 
-You might not want to pay a $12 monthly subscription to host your podcast! Perhaps you have a cheap S3 bucket ready to go, or would be happy to host your podcast with a Creative Common license for free through the Internet Archive. There should be an app which enables these self-hosted options, with an auto-generated RSS feed based on your episode data.
+You might not want to pay a $12 monthly subscription to host your podcast! Perhaps you have a cheap S3 bucket ready to go, or would be happy to host your podcast with a Creative Commons license for free through the Internet Archive. There should be an app which enables these self-hosted options, with an auto-generated RSS feed based on your episode data.
 
 ---
 
