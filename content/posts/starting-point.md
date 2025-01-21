@@ -13,6 +13,8 @@ I [recently wrote](/posts/malleable-software) about the way AI is making it poss
 
 Starting work on a new project is hard. It's the classic blank page problem. While AI doesn't yet do such a great job of programming, one thing that it's great at is giving me a starting point.
 
+<!--more-->
+
 From there, it's much easier for me to say "that sucks, it should be done this way instead", and rewrite the whole thing.
 
 I was chatting with a friend of mine, [Aaron West](https://www.linkedin.com/in/westaj/), about this phenomenon just now, while he worked on fixing a whole bunch of poorly generated React components. He put it this way:
