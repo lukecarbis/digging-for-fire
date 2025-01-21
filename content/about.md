@@ -1,3 +1,7 @@
+---
+title: About Digging for Fire
+---
+
 Welcome to my weblog!
 
 Digging for Fire is a blog about technology and education (and sometimes gardening).
