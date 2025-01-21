@@ -16,7 +16,7 @@
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="/posts/index.xml" title="%s">` .Rel .MediaType.Type $.Site.Title | safeHTML }}
 	{{- end }}
-	<style type=text/css>body{ font-family: monospace; }</style>
+	<style>body{ font-family: monospace; }</style>
 </head>
 <body>
 	{{ partial "header" . }}

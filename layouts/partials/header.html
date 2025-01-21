@@ -1,7 +1,6 @@
 <header>
-	<p>
-		<pre style="line-height:16px; background:none;padding: 0;" role="img" aria-label="DfF">
-			<a class="logo" href="{{ .Site.BaseURL }}" title="Digging for Fire">
+	<pre style="line-height:16px; background:none;padding: 0;" role="img" aria-label="DfF">
+		<a class="logo" href="{{ .Site.BaseURL }}" title="Digging for Fire">
  ██████████     ██████  ██████████ 
 <span class="shadow">░░</span>███<span class="shadow">░░░░</span>███   ███<span class="shadow">░░░</span>██<span class="shadow">░░</span>███<span class="shadow">░░░░░</span>  
  <span class="shadow">░</span>███   <span class="shadow">░░</span>███ <span class="shadow">░</span>███  <span class="shadow">░░</span>  <span class="shadow">░</span>███       
@@ -10,9 +9,8 @@
  <span class="shadow">░</span>███    ███  <span class="shadow">░</span>███      <span class="shadow">░</span>███       
  ██████████   <span class="shadow">░</span>███      █████      
 <span class="shadow">░░░░░░░░░░</span>    <span class="shadow">░░░</span>      <span class="shadow">░░░░░</span>       
-			</a>
-		</pre>
-	</p>
+		</a>
+	</pre>
 	<nav>
 		{{ with .Site.Menus.main }}
 		{{ range . }}
@@ -21,6 +19,3 @@
 	</nav>
 	{{ end }}
 </header>
-{{ range .AlternativeOutputFormats -}}
-  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-{{ end }}
