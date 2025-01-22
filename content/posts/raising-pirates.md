@@ -17,7 +17,7 @@ You may have heard of the Pirates of Penzance. The Gilbert & Sullivan opera was 
 
 That's my namesake. I'm a Carbis.
 
-<!-- more -->
+<!--more-->
 
 Carbis Bay, nestled in the larger St. Ives Bay, faces the Celtic Sea. From here you can easily sail to Cork or Cardiff, Plymouth or Porto. It's an *excellent* place for a seafarer to setup shop. And many did. Cornwall became known as a place of refuge for pirates.
 
