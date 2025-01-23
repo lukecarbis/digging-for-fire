@@ -15,6 +15,8 @@ I was inspired by something I saw on Joshua Wold's blog a few days ago. He was r
 
 The experience is much the same for me, except that sometimes I _don't_ have an idea of what I want to write.
 
+<!--more-->
+
 Sometimes you've got to just power through and write anyway. And *there's a tension* there– am I writing for myself or for an audience?
 
 Because if I write for myself, then I'm likely to blather on, documenting uninteresting minutia. Getting words out for the sake of getting words out, because getting words out feels natural and cathartic. This blog's origin was an unfiltered journal with a voyeuristic audience.
