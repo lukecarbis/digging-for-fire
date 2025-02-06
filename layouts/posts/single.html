@@ -1,8 +1,8 @@
 {{ define "main" }}
 	<main>
 		<article>
-			<h1>{{ .Title }}</h1>
-			<b><time>{{ .Date.Format (default "2006-01-02" .Site.Params.dateFmt) }}</time></b>
+			{{ if (.Title) }}<h1>{{ .Title }}</h1>{{ end }}
+			{{ if (.Date) }}<b><time>{{ .Date.Format (default "2006-01-02" .Site.Params.dateFmt) }}</time></b>{{ end }}
 			{{- if and (.Lastmod) (ne .Lastmod .Date) -}}
 				&nbsp;(Updated <time>{{ .Lastmod.Format (default "2006-01-02" .Site.Params.dateFmt) }}</time>)
 			{{- end }}

@@ -52,8 +52,8 @@
 	  <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
 	  {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
 	  <guid>{{ .Permalink }}</guid>
-	  <description>{{ .Summary | safeHTML }}</description>
-	  <content>{{ .Content | safeHTML }}</content>
+	  <description>{{ .Summary | html }}</description>
+	  <content>{{ .Content | html }}</content>
   	</item>
 	{{- end }}
   </channel>
