@@ -14,11 +14,15 @@ I've been having an ongoing argument with a friend about AI's role in recruiting
 
 If you're looking for a job, [one in five advertised positions are "ghost jobs"](https://www.wsj.com/lifestyle/careers/ghost-jobs-2c0dcd4e) – fake, or already filled. The number of ghost jobs are probably [much higher on LinkedIn](https://www.ndash.com/blog/are-linkedin-job-posts-real), where recruiters are priming their talent pools and employers are gaming the algorithm.
 
-If you're looking for an employee, you're already drowning in AI-generated CVs and cover letters. From the [Financial Times](https://www.ft.com/content/30a032dd-bdaa-4aee-bc51-754867abbde0):
+If you're looking for an employee, you're already drowning in AI-generated CVs and cover letters. From the [Financial Times]():
 
-> Candidates are turning increasingly to generative AI — the type used in chatbot products such as ChatGPT and Gemini to produce conversational passages of text — to assist them in writing their CVs, cover letters and completing assessments
-> Estimates from employers and recruiters who spoke to the Financial Times, as well as multiple published surveys, have suggested the figure is as high as 50 per cent of applicants.
-> A “barrage” of AI-powered applications had led to more than double the number of candidates per job while the “barrier to entry is lower”...
+{{< quote author="Financial Times" title="Jobhunters flood recruiters with AI-generated CVs" link="https://www.ft.com/content/30a032dd-bdaa-4aee-bc51-754867abbde0" >}}
+Candidates are turning increasingly to generative AI — the type used in chatbot products such as ChatGPT and Gemini to produce conversational passages of text — to assist them in writing their CVs, cover letters and completing assessments.
+
+Estimates from employers and recruiters who spoke to the Financial Times, as well as multiple published surveys, have suggested the figure is as high as 50 per cent of applicants.
+
+A “barrage” of AI-powered applications had led to more than double the number of candidates per job while the “barrier to entry is lower”...
+{{< /quote >}}
 
 <!--more-->
 

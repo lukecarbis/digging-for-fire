@@ -21,11 +21,11 @@ But a new health crisis has taken the place of Big Tobacco. A mental health cris
 
 The mental health of young Australians is plummeting dramatically, reflecting a world wide trend. All evidence points directly to Big Social.
 
-> Yet despite this worldwide megatrend, public and media discourse is muffled. Health and social care systems remain asymmetrically focused on physical illness and disability. Despite the erosive effect of mental illness, public pressure and, consequently, the political will for a response, in proportion to the scale and urgency of the crisis, are yet to materialise.
->
-> The answers are likely to involve a blend of socio-economic and generational changes, rising adversity and inequality, and unforeseen consequences of technological advances. The US Surgeon General, drawing in part on the research and advocacy of Jean Twenge, has identified social media as a key megatrend undermining the mental health of young people.
->
-> via [The Medical Journal of Australia](https://onlinelibrary.wiley.com/doi/10.5694/mja2.52047)
+{{< quote author="The Medical Journal of Australia" title="Mental health of young Australians" link="https://onlinelibrary.wiley.com/doi/10.5694/mja2.52047" >}}
+Yet despite this worldwide megatrend, public and media discourse is muffled. Health and social care systems remain asymmetrically focused on physical illness and disability. Despite the erosive effect of mental illness, public pressure and, consequently, the political will for a response, in proportion to the scale and urgency of the crisis, are yet to materialise.
+
+The answers are likely to involve a blend of socio-economic and generational changes, rising adversity and inequality, and unforeseen consequences of technological advances. The US Surgeon General, drawing in part on the research and advocacy of Jean Twenge, has identified social media as a key megatrend undermining the mental health of young people.
+{{< /quote >}}
 
 **Why is nobody talking about this!?**
 

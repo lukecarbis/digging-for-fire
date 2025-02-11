@@ -9,11 +9,11 @@ categories:
   - Work
 ---
 
-> Everyone is making it up to some extent. This is the secret I didn’t learn until years into my career. I often thought I was the only one in the room who didn’t know what was going on, and was in awe of the geniuses always surrounding me... 
->
-> ... Often people are making things up as they go along. They’re not sure, things are undefined and squishy.
->
-> — via [Joshua Wold](https://joshuawold.com/making-it-up/)
+{{< quote author="Joshua Wold" title="Making it up" link="https://joshuawold.com/making-it-up/" >}}
+Everyone is making it up to some extent. This is the secret I didn’t learn until years into my career. I often thought I was the only one in the room who didn’t know what was going on, and was in awe of the geniuses always surrounding me...
+
+... Often people are making things up as they go along. They’re not sure, things are undefined and squishy.
+{{< /quote >}}
 
 Thankfully, this is a secret I learned very early, and has steered me true in every stage of my career.
 

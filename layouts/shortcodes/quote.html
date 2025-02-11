@@ -1,0 +1,11 @@
+<figure>
+	<blockquote{{ with .Get "link" }} cite="{{ . }}"{{ end }}>
+		{{ .Inner | markdownify }}
+	</blockquote>
+	{{ with .Get "author" }}
+		<figcaption>
+			— 
+			{{ with $.Get "link" }}<a href="{{ . }}">{{ $.Get "author" }}</a>{{ else }}{{ $.Get "author" }}{{ end }}{{ with $.Get "title" }}, {{ $.Get "title" }}{{ end }}
+		</figcaption>
+	{{ end }}
+</figure>
