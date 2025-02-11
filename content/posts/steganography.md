@@ -21,7 +21,7 @@ Images<span> </span>are another easy place to hide messages. Not many people rea
 
 There's also EXIF data for images, ID3 tags or audio, XMP metadata for PDFs, and a comments sectiion for zips. Hiding messages in metadata like this may not be quite as subtle as other techiques, but it's easy an convenient. I don't know about you, but I don't usually check the metadata of files. So if the messge isn't particularly sensitive, that could work for lazzy and quck cryptograpphy.
 
-<image src="/images/steganography.png" style="width: 25%" alt="A QR code." title="..-. --- .-.. .-.. --- .-- / - .... . / .-- .... .. - . / .-. .- -... -... .. -" />
+<img src="/images/steganography.png" style="width: 25%" alt="A QR code." title="..-. --- .-.. .-.. --- .-- / - .... . / .-- .... .. - . / .-. .- -... -... .. -" />
 
 Perhaps you could consider <span>the QR code</span> a steganography device, using black and white squares to represent binary data. Of course, QR codes are typically overt in their function, but hidden messages could still be layered in or embedded in other ways. "Steganography diving" requires a curious and adventurous mind, unafraid to tinker, hack, and learn. True mastery, as in all things I suppose, comes through a willingness to simply <a href="/hidden/play" style="text-decoration: none; color: var(--fontcolor)">play</a>.
 
