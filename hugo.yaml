@@ -13,8 +13,8 @@ menus:
   - name: About
     pageRef: /about
     weight: 10
-  - name: Blogroll
-    pageRef: /blogroll
+  - name: Call
+    url: http://zeeg.me/saadia/call
     weight: 20
   - name: Contact
     pageRef: /contact
@@ -23,15 +23,18 @@ menus:
     pageRef: /subscribe
     weight: 40
   footer:
+  - name: Blogroll
+    pageRef: /blogroll
+    weight: 10
   - name: Podcast
     url: /podcast
-    weight: 10
+    weight: 20
   - name: RSS
     url: /posts/index.xml
-    weight: 20
+    weight: 30
   - name: Email
     url: https://buttondown.com/saadia
-    weight: 30
+    weight: 40
 outputs:
   home:
     - html
