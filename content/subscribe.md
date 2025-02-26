@@ -2,7 +2,7 @@
 title: Subscribe
 ---
 
-There are 4 ways you can stay up to date with posts on Digging for Fire.
+There are 5 ways you can stay up to date with posts on Digging for Fire.
 
 ---
 
@@ -29,6 +29,17 @@ If you'd like to stay up to date with this blog read by me (plus occasional bonu
 ### Email
 
 Okay, I get it. RSS isn't for everyone. If you'd prefer an email to arrive in your inbox each time I publish a new post, then you can [subscribe here](https://buttondown.com/saadia).
+
+---
+
+### Social
+
+I'm not active on social media, but I do have write-only accounts on these platforms, if you'd like to have Digging for Fire posts show up in your feed.
+
+- [X (Twitter)](https://x.com/saadiacarbis)
+- [Bluesky](https://bsky.app/profile/saadiacarbis.bsky.social)
+- [Mastodon](https://mas.to/@carbis)
+- [Threads](https://www.threads.net/@saadiacarbis)
 
 ---
 

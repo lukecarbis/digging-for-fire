@@ -35,6 +35,9 @@ menus:
   - name: Email
     url: https://buttondown.com/saadia
     weight: 40
+  - name: Socials
+    pageRef: /socials
+    weight: 50
 outputs:
   home:
     - html
