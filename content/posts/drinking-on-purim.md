@@ -11,7 +11,7 @@ categories:
 
 It's pretty rare to find people who live an Orthodox Jewish lifestyle where there's no Orthodox Jewish community. But I do.
 
-Because I'm recognisably Jewish, I often encounter people who have questions and pre-conceptions about Judaism, which I'm more than happy to oblige.
+Because I'm recognisably Jewish (I wear a kippah), I often encounter people who have questions and pre-conceptions about Judaism, which I'm more than happy to oblige.
 
 There is one particular misconception about Judaism that I encounter time, and time again. For some reason, people seem to think *Jews don't drink alcohol*.
 
@@ -27,7 +27,7 @@ Rava said: A person is obligated to become intoxicated with wine on Purim until 
 
 Woah! Haman is the bad guy of the story, and Mordecai is the good guy. It's like saying "drink until you can't tell the difference between Luke Skywalker and Darth Vader". That's a lotta grog.
 
-The (let's call it) *dynamic* relationship between Judaism and alcohol is problematic, especially given modern social problems related to alcoholism (a problem that Jews are by no means immune).
+The (let's call it) *dynamic* relationship between Judaism and alcohol is problematic, especially given modern social problems related to alcoholism (a problem which Jews are by no means immune to).
 
 Thankfully, this question was asked of Rabbi Chaim Ingram this week, and I wanted to share his response for two reasons.
 
