@@ -1,8 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="248" height="480" viewBox="0 0 310 600" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<radialGradient id="crcGr" gradientUnits="userSpaceOnUse" cx="0" cy="0" fx="0" fy="0" r="100">
+<radialGradient id="greyRadialGradient" gradientUnits="userSpaceOnUse" cx="0" cy="0" fx="0" fy="0" r="100">
 <stop offset="10%" stop-color="#ffffff"/>
 <stop offset="80%" stop-color="#d5d5d5"/>
+</radialGradient>
+<radialGradient id="greeenRadialGradient" gradientUnits="userSpaceOnUse" cx="0" cy="0" fx="0" fy="0" r="100">
+<stop offset="10%" stop-color="#C8DCB0"/>
+<stop offset="80%" stop-color="#6AEB59"/>
 </radialGradient>
 </defs>
 <title>Kabbalistic Tree of life with the ten Sephiroth and the 22 Hebrew letters as they are presented in the Sefer Yetzirah (Book of Formation)</title>
@@ -19,16 +23,16 @@ M-283,490.1703785V-163.3901262 M0,653.5605047V-653.5605047"/>
 <path stroke="rgb(226,173,173)" d="M283,490.1703785H-283 M283,163.3901262H-283
 M283,-163.3901262H-283"/></g>
 <g stroke-width="4" stroke="rgb(0,0,0)">
-<circle fill="url(#crcGr)" r="100"/>
-<g transform="translate(283,163.3901262)"><circle fill="url(#crcGr)" r="100"/></g>
-<g transform="translate(283,-163.3901262)"><circle fill="url(#crcGr)" r="100"/></g>
-<g transform="translate(-283,163.3901262)"><circle fill="url(#crcGr)" r="100"/></g>
-<g transform="translate(-283,-163.3901262)"><circle fill="url(#crcGr)" r="100"/></g>
-<g transform="translate(0,-326.7802524)"><circle fill="url(#crcGr)" r="100"/></g>
-<g transform="translate(0,-653.5605047)"><circle fill="url(#crcGr)" r="100"/></g>
-<g transform="translate(283,490.1703785)"><circle fill="url(#crcGr)" r="100"/></g>
-<g transform="translate(-283,490.1703785)"><circle fill="url(#crcGr)" r="100"/></g>
-<g transform="translate(0,653.5605047)"><circle fill="url(#crcGr)" r="100"/></g>
+<circle fill="url(#greyRadialGradient)" r="100"/>
+<g transform="translate(283,163.3901262)"><circle fill="url(#greyRadialGradient)" r="100"/></g>
+<g transform="translate(283,-163.3901262)"><circle fill="url(#greyRadialGradient)" r="100"/></g>
+<g transform="translate(-283,163.3901262)"><circle fill="url(#greyRadialGradient)" r="100"/></g>
+<g transform="translate(-283,-163.3901262)"><circle fill="url(#greyRadialGradient)" r="100"/></g>
+<g transform="translate(0,-326.7802524)"><circle fill="url(#greyRadialGradient)" r="100"/></g>
+<g transform="translate(0,-653.5605047)"><circle fill="url(#greyRadialGradient)" r="100"/></g>
+<g transform="translate(283,490.1703785)"><circle fill="url(#greyRadialGradient)" r="100"/></g>
+<g transform="translate(-283,490.1703785)"><circle fill="url(#greyRadialGradient)" r="100"/></g>
+<g transform="translate(0,653.5605047)"><circle fill="url(#greyRadialGradient)" r="100"/></g>
 </g>
 <!-- Latin text -->
 <path d="M-38.654,719.006
