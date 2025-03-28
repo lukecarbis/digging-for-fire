@@ -19,7 +19,7 @@ Say something,
 Say something profound
 
 Say something oblique
-Say something oblique 
+Say something oblique
 Some obscure reference
 Something antique
 The less that they get it
@@ -31,7 +31,7 @@ Say something unique
 An utterance that I’ll decode in a week
 Say something brand new
 And say something blue
-With tongue firmly planted in cheek 
+With tongue firmly planted in cheek
 
 Just say something
 
@@ -41,7 +41,7 @@ Say something!
 Somebody,
 I wish that you would
 If they don’t enjoy it
-You’re misunderstood 
+You’re misunderstood
 Say something,
 Say anything good
 
@@ -65,6 +65,6 @@ Say something immortal
 
 Cast a spell that will open a portal
 And take me away
-Send me on vacation 
+Send me on vacation
 To find inspiration
 Because I have nothing to say
