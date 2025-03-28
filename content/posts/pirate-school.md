@@ -1,7 +1,7 @@
 ---
 title: Pirate School
-date: 2025-28-03T12:00:00+1000
-lastmod: 2025-28-03T12:00:00+1000
+date: 2025-03-28T12:00:00+1000
+lastmod: 2025-03-28T12:00:00+1000
 audio: https://archive.org/download/digging-for-fire/pirate-school.mp3
 audiolength: 1273723
 audioduration: 00:02:25
