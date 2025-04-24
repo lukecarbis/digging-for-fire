@@ -23,6 +23,8 @@ input[type=text] {font-family: monospace; padding: 4px 6px; border: 1px solid va
 .pagination {margin-top: 40px;}
 details.audio summary {margin-top: 1em; cursor: pointer; color: var(--linkcolor); display: inline-block;}
 details.audio audio {margin-top: 1em; display: block;}
-blockquote { border-left: 5px solid var(--prebgcolor); margin-left: 0; padding-left: 1rem; margin-top: 2rem; margin-bottom: 2rem; }
-figure blockquote { border-left: 5px solid var(--prebgcolor); margin-left: 0; padding-left: 1rem; margin-top: 2rem; margin-bottom: 1rem; }
-figure blockquote + figcaption { text-align: left; margin-left: calc(1rem + 5px); margin-bottom: 2rem; }
+blockquote {border-left: 5px solid var(--prebgcolor); margin-left: 0; padding-left: 1rem; margin-top: 2rem; margin-bottom: 2rem;}
+figure blockquote {border-left: 5px solid var(--prebgcolor); margin-left: 0; padding-left: 1rem; margin-top: 2rem; margin-bottom: 1rem;}
+figure blockquote + figcaption {text-align: left; margin-left: calc(1rem + 5px); margin-bottom: 2rem;}
+.bluesky-link {margin-bottom: 1rem; display: inline-block;}
+bluesky-comments {margin-bottom: 3rem; display: block;}

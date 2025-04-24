@@ -14,6 +14,13 @@
 				{{ .Content }}
 			</div>
 		</article>
+		{{- if (.Params.bluesky) }}		
+		<a href="https://bsky.app/profile/diggingforfire.blog/post/{{ .Params.bluesky }}" class="bluesky-link">Discuss on Bluesky</a>
+
+		<script type="module" src="/js/bluesky-comments/load.mjs"></script>
+
+		<bluesky-comments url="https://bsky.app/profile/diggingforfire.blog/post/{{ .Params.bluesky }}"></bluesky-comments>
+		{{- end }}
 	</main>
 {{ partial "sidebar.html" . }}
 {{ end }}
