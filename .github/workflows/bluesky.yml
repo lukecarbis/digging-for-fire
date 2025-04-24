@@ -8,8 +8,8 @@ jobs:
   update-bluesky:
     runs-on: ubuntu-latest
     steps:
-      # - name: Wait 2 minutes for Bridgy to post
-      #   run: sleep 120
+      - name: Wait 5 minutes for Bridgy to post
+        run: sleep 300
 
       - uses: actions/checkout@v4
         with:
