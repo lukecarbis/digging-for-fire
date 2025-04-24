@@ -25,9 +25,12 @@ jobs:
         run: node .github/scripts/update-bluesky.js
 
       - name: Commit and push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "GitHub Action"
           git config user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
           git add content/posts/*.md
           git commit -m "Update Bluesky field"
           git push
