@@ -13,8 +13,7 @@
 	{{ range .Site.Params.customCSS -}}
 		<link rel="stylesheet" href="{{ . | relURL }}?rnd={{ now.Unix }}">
 	{{- end }}
-	<link rel="alternate" type="application/rss+xml" href="/index.xml" title="{{ .Title }} RSS Feed">
-	<link rel="feed" type="application/rss+xml" href="/index.xml" title="Subscribe to {{ .Title }}">
+	<link rel="alternate" type="application/rss+xml" title="{{ .Title }}" href="/index.xml">
 	<style>body{ font-family: monospace; }</style>
 </head>
 <body>
