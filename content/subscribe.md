@@ -10,7 +10,7 @@ There are 5 ways you can stay up to date with posts on Digging for Fire.
 
 [What's RSS?](https://aboutfeeds.com). I love RSS, and [I think you should too](/posts/syndication/).
 
-<input type="text" value="https://diggingforfire.blog/index.xml" readonly="readonly" style="width: 18rem; user-select: all;" />
+<input type="text" value="http://diggingforfire.blog/index.xml" readonly="readonly" style="width: 18rem; user-select: all;" />
 
 ---
  

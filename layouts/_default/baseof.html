@@ -13,7 +13,7 @@
 	{{ range .Site.Params.customCSS -}}
 		<link rel="stylesheet" href="{{ . | relURL }}?rnd={{ now.Unix }}">
 	{{- end }}
-	<link rel="alternate" type="application/rss+xml" href="/index.xml" title="{{ .Title }}">
+	<link rel="alternate" type="application/rss+xml" href="http://diggingforfire.blog/index.xml" title="{{ .Title }}">
 	<style>body{ font-family: monospace; }</style>
 </head>
 <body>
