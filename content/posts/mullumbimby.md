@@ -1,13 +1,13 @@
 ---
 title: Mullumbimby
-date: 2025-04-18T14:30:00+1000
-lastmod: 2025-04-18T14:30:00+1000
-audio: https://archive.org/download/digging-for-fire/mullumbimby.mp3
+date: '2025-04-18T14:30:00+1000'
+lastmod: '2025-04-18T14:30:00+1000'
+audio: 'https://archive.org/download/digging-for-fire/mullumbimby.mp3'
 audiolength: 2400377
-audioduration: 00:04:46
+audioduration: '00:04:46'
 categories:
   - Reflections
-bluesky: 3lnjv6ae4utm2
+bluesky: 'at://did:plc:iqoykjnbnqkre2fsbt5ri667/app.bsky.feed.post/3lnjv6ae4utm2'
 ---
 
 We're spending the last days of pesach in Mullumbimby. There's an amazing Jewish community here, full of young families and friendly faces. The Rabbi was kind enough to let us park our caravan in the yard of the shul, so we'll be very close to services over the next two days.
