@@ -1,5 +1,2 @@
-/index.xml
-  Content-Type: application/rss+xml; charset=UTF-8
-
-/podcast.xml
-	Content-Type: application/rss+xml; charset=UTF-8
+/*.xml
+  Content-Type: application/rss+xml
