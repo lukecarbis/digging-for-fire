@@ -53,7 +53,7 @@ outputFormats:
     mediaType: "application/rss+xml"
     baseName: "index"
     isPlainText: false
-    notAlternative: false
+    noUgly: true
   podcast:
     mediatype: "application/rss+xml"
     baseName: "podcast"
