@@ -13,6 +13,7 @@ const BSKY_FEED_URL = 'https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorF
 	if (!post) throw new Error('No Bluesky posts found');
 
 	const bskyUri = post.uri;
+	const bskyId = bskyUri.split('/').pop();
 	const bridgyUrl = post.record?.bridgyOriginalUrl;
 	if (!bridgyUrl) throw new Error('bridgyOriginalUrl not found');
 
@@ -26,7 +27,7 @@ const BSKY_FEED_URL = 'https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorF
 	const file = fs.readFileSync(postPath, 'utf8');
 	const parsed = matter(file);
 
-	parsed.data.bluesky = bskyUri;
+	parsed.data.bluesky = bskyId;
 	const updated = matter.stringify(parsed.content, parsed.data);
 	fs.writeFileSync(postPath, updated);
 
