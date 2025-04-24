@@ -18,7 +18,7 @@ Aside from programming all day and hanging out with my kids, I also enjoy playin
 
 ### How can I stay updated when there's a new post?
 
-Subscribe to my [RSS feed](http://localhost:1313/posts/index.xml)! If you don't use an RSS reader, I also have an [email signup](https://9d4e1714.sibforms.com/serve/MUIFAN-sqKSbQoPIp99-H1A9ZPPVCl_qzd_rbFZ7KLNJkRx6eQyORqeOQBq6JDqOgQXiSw3t50fZBZN5CPYqNda1k2d2Yr5xvLx67T_GfZuu5HrUvbmXrvVEYjem0CQ3ZK-2OK1jgoTsjZ18UyyyvuacxJ1r8xuPlDDk-zNVwlLd1CCIuEdKMU3USDXUBuY62ABhDsK1VRghCnBn) that will deliver DfF articles to you. Or you can [follow me on social media](/socials) to have Digging for Fire posts show up in your feed.
+Subscribe to my [RSS feed](/index.xml)! If you don't use an RSS reader, I also have an [email signup](https://9d4e1714.sibforms.com/serve/MUIFAN-sqKSbQoPIp99-H1A9ZPPVCl_qzd_rbFZ7KLNJkRx6eQyORqeOQBq6JDqOgQXiSw3t50fZBZN5CPYqNda1k2d2Yr5xvLx67T_GfZuu5HrUvbmXrvVEYjem0CQ3ZK-2OK1jgoTsjZ18UyyyvuacxJ1r8xuPlDDk-zNVwlLd1CCIuEdKMU3USDXUBuY62ABhDsK1VRghCnBn) that will deliver DfF articles to you. Or you can [follow me on social media](/socials) to have Digging for Fire posts show up in your feed.
 
 ---
 

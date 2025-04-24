@@ -33,4 +33,4 @@ The only manual step is to simply click through each tab, make any slight adjust
 
 I figure that this is a way to have my cake and eat it, too. I'm unlikely to gain traction on these networks, but who knows? At the very least, if one of these networks are part of your regular check-in, following me there is an easy way to stay up-to-date on my latest posts.
 
-There are now five ways to stay up to date with Digging for Fire: [RSS](/posts/index.xml), [Podcast](/podcast.xml), [Email](https://buttondown.com/saadia), [Social Media](/socials), or a plain old browser bookmark.
+There are now five ways to stay up to date with Digging for Fire: [RSS](/index.xml), [Podcast](/podcast.xml), [Email](https://buttondown.com/saadia), [Social Media](/socials), or a plain old browser bookmark.

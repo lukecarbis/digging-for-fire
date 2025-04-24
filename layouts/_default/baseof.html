@@ -13,9 +13,7 @@
 	{{ range .Site.Params.customCSS -}}
 		<link rel="stylesheet" href="{{ . | relURL }}?rnd={{ now.Unix }}">
 	{{- end }}
-	{{ with .OutputFormats.Get "RSS" -}}
-		{{ printf `<link rel="%s" type="%s" href="/posts/index.xml" title="%s">` .Rel .MediaType.Type $.Site.Title | safeHTML }}
-	{{- end }}
+	<link rel="alternate" type="application/rss+xml" href="/index.xml" title="{{ .Title }}">
 	<style>body{ font-family: monospace; }</style>
 </head>
 <body>

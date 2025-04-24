@@ -2,12 +2,17 @@ baseURL: "https://diggingforfire.blog/"
 languageCode: "en-au"
 title: "Digging for Fire"
 theme: "smol"
+relativeURLs: false
+canonifyURLs: true
 markup:
   goldmark:
     renderer:
       hardWraps: true
       xhtml: true
       unsafe: true
+    extensions:
+      typographer:
+        disable: true
 menus:
   main:
   - name: About
@@ -30,7 +35,7 @@ menus:
     url: /podcast
     weight: 20
   - name: RSS
-    url: /posts/index.xml
+    url: /index.xml
     weight: 30
   - name: Email
     url: https://buttondown.com/saadia
@@ -44,6 +49,11 @@ outputs:
     - rss
     - podcast
 outputFormats:
+  rss:
+    mediaType: "application/rss+xml"
+    baseName: "index"
+    isPlainText: false
+    notAlternative: false
   podcast:
     mediatype: "application/rss+xml"
     baseName: "podcast"
