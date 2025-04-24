@@ -1,0 +1,34 @@
+name: Update Bluesky Field
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  update-bluesky:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait 2 minutes for Bridgy to post
+        run: sleep 120
+
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install axios gray-matter
+
+      - name: Update bluesky field
+        run: node .github/scripts/update-bluesky.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+          git add content/posts/*.md
+          git commit -m "Update Bluesky field"
+          git push
+        continue-on-error: true
