@@ -43,6 +43,11 @@ menus:
   - name: Socials
     pageRef: /socials
     weight: 50
+  - name: ✔︎
+    url: https://web.brid.gy/r/https://diggingforfire.blog/
+    params:
+      rel: me
+    weight: 60
 outputs:
   home:
     - html
