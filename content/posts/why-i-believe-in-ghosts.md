@@ -1,12 +1,13 @@
 ---
 title: Why I believe in ghosts
-date: 2025-04-28T09:00:00+1000
-lastmod: 2025-04-28T09:00:00+1000
-audio: https://archive.org/download/digging-for-fire/why-i-believe-in-ghosts.mp3
+date: '2025-04-28T09:00:00+1000'
+lastmod: '2025-04-28T09:00:00+1000'
+audio: 'https://archive.org/download/digging-for-fire/why-i-believe-in-ghosts.mp3'
 audiolength: 1599173
-audioduration: 00:03:06
+audioduration: '00:03:06'
 categories:
   - Reflections
+bluesky: 3lntxhq4t4oj2
 ---
 
 I have a deeply personal post I need to write, but it won't make sense without the context. So I'm going to break it up into multiple parts. They might seem disconnected to begin with.
