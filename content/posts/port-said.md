@@ -7,7 +7,7 @@ audiolength: 2423031
 audioduration: '00:04:49'
 categories:
   - Reflections
-bluesky: 3lnwhwsixshv2
+bluesky: 3loklornspul2
 ---
 
 I have a deeply personal post I need to write, but it won't make sense without the context. So I'm going to break it up into multiple parts. They might seem disconnected to begin with.
