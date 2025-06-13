@@ -10,7 +10,7 @@ categories:
 
 I've been using the em dash wrong. On this blog, ranges will now be correctly represented by an en dash. 0–9, 1987–2025, א–ת.
 
-Additionally, I'd like to invite readers to join me in adopting then Guardian / Economist style of using spaced en dashes for asides – just like this.
+Additionally, I'd like to invite readers to join me in adopting the Guardian / Economist style of using spaced en dashes for asides – just like this.
 
 Of course, I'm predisposed to a more British format. But the reason **you** should consider switching styles is because the un-spaced em dash aside has become a classic telltale marker of AI generated writing.
 
