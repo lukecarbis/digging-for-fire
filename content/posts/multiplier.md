@@ -7,7 +7,7 @@ categories:
   - AI
 ---
 
-I've been trying to reconcile the way I feel about AI. (It's been a hot topic on [https://async.fm](Async) recently.)
+I've been trying to reconcile the way I feel about AI. (It's been a hot topic on [Async](https://async.fm) recently.)
 
 On the one hand, I see so much shitty code submitted to the WordPress plugin repo. It's easy to see how AI is making things _way_ worse for the web – in terms of security, homogenisation, and long-term maintainability. There are legitimate concerns about loss of craft, content scraping, and [enshittification](https://diggingforfire.blog/posts/trapped-in-an-eternal-cycle-of-enshittification/).
 
