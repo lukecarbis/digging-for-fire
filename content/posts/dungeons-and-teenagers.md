@@ -23,7 +23,7 @@ Peter Gray, in his book Free to Learn, argues that play isn’t just something k
 
 And just like in life, there’s no guaranteed success. One session, the party found themselves in an unwinnable *Kobayashi Maru* of a fight. But instead of giving up, one player took the lead and negotiated. The enemy still won the day, but the party managed a minor concession that softened the blow. It wasn’t a win, but it was something. Learning to extract small successes from failure is a skill that’ll serve them well far beyond the game table.
 
-Psychologist Lev Vygotsky talked about the “zone of proximal development”—the sweet spot where learning happens just beyond what a person can do alone, but within reach with the right support. D&D lives in that space. It challenges players just enough, giving them a place to stretch their social, strategic, and problem-solving muscles in a way that feels safe and fun.
+Psychologist Lev Vygotsky talked about the “zone of proximal development” – the sweet spot where learning happens just beyond what a person can do alone, but within reach with the right support. D&D lives in that space. It challenges players just enough, giving them a place to stretch their social, strategic, and problem-solving muscles in a way that feels safe and fun.
 
 And the best part? They’re just playing a game, arguing over battle plans, and making terrible puns about their Tabaxian jungle guide. Along the way they’re building confidence, adaptability, teamwork, resilience, that they’ll take with them long after the final boss has been vanquished.
 

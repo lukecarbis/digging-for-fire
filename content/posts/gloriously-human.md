@@ -17,7 +17,7 @@ If you're looking for a job, [one in five advertised positions are "ghost jobs"]
 If you're looking for an employee, you're already drowning in AI-generated CVs and cover letters. From the [Financial Times]():
 
 {{< quote author="Financial Times" title="Jobhunters flood recruiters with AI-generated CVs" link="https://www.ft.com/content/30a032dd-bdaa-4aee-bc51-754867abbde0" >}}
-Candidates are turning increasingly to generative AI — the type used in chatbot products such as ChatGPT and Gemini to produce conversational passages of text — to assist them in writing their CVs, cover letters and completing assessments.
+Candidates are turning increasingly to generative AI – the type used in chatbot products such as ChatGPT and Gemini to produce conversational passages of text — to assist them in writing their CVs, cover letters and completing assessments.
 
 Estimates from employers and recruiters who spoke to the Financial Times, as well as multiple published surveys, have suggested the figure is as high as 50 per cent of applicants.
 

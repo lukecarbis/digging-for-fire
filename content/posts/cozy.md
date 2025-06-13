@@ -102,7 +102,7 @@ At least 3 of:
 
 ---
 
-It turns out that Open Web idealism might have been no more than a fast-track to an ad-based internet. Information wants to be free, but people want to be paid. The Cozy Web is an answer to that. It creates safe, intimate spaces to interact online, making the web feel smaller and more personal—reminiscent of the early days of bulletin boards and local online communities, where connection was valued over scale.
+It turns out that Open Web idealism might have been no more than a fast-track to an ad-based internet. Information wants to be free, but people want to be paid. The Cozy Web is an answer to that. It creates safe, intimate spaces to interact online, making the web feel smaller and more personal – reminiscent of the early days of bulletin boards and local online communities, where connection was valued over scale.
 
 The internet has changed, but the good news is that it’s still changing. Not everyone is going adjust their daily dopamine diet, but there’s a growing group of ~~troublemakers~~ conscientious objectors who are building a better, cosier, web.
 

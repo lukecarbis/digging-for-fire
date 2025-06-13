@@ -11,7 +11,7 @@ I've been trying to reconcile the way I feel about AI. (It's been a hot topic on
 
 On the one hand, I see so much shitty code submitted to the WordPress plugin repo. It's easy to see how AI is making things _way_ worse for the web – in terms of security, homogenisation, and long-term maintainability. There are legitimate concerns about loss of craft, content scraping, and [enshittification](https://diggingforfire.blog/posts/trapped-in-an-eternal-cycle-of-enshittification/).
 
-On the other hand, I use AI for help every time I write code! It's a far cry from _vIbE cOdInG_, but it's unlocked possibilities in ways I never thought possible. ChatGPT has, undoubtedly, made me a better developer! Writers like Joshua Wold use AI to line-edit finished pieces, and learn a lot about writing better prose in the process. I even use AI writing this blog for things like "what's that word…?" and rubber ducking.
+On the other hand, I use AI for help every time I write code! It's a far cry from _vIbE cOdInG_, but it's unlocked possibilities in ways I never thought possible. ChatGPT has, undoubtedly, made me a better developer! Writers like [Joshua Wold](https://joshuawold.com) use AI to line-edit finished pieces, and learn a lot about writing better prose in the process. I even use AI writing this blog for things like "what's that word…?" and rubber ducking.
 
 I've got the ChatGPT shortcut under my fingers, and I often find myself instinctively invoking it. I worry about the long-term effects that might have on my brain, as I reflexively hand off hard thinking. I worry about the long-term effects that might have on all our brains.
 

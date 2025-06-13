@@ -89,9 +89,9 @@ Of course each of these inversions can be played in each of the shapes listed ab
 
 Okay with this next step I implement some limitations on myself in order to force brain and fingers into uncomfortable territory.
 
-The task is: Play through the Circle of Fifths triads using only fret 1—5 (or fret 6 if necessary). No open notes.
+The task is: Play through the Circle of Fifths triads using only fret 1–5 (or fret 6 if necessary). No open notes.
 
-Once I'm feeling comfortable here, I'll move the whole thing up the neck, playing frets 6—10, or 8—12. This usually takes some time to figure out – I'm still becoming familiar with the notes north of the fifth fret! But that's why it's good practice.
+Once I'm feeling comfortable here, I'll move the whole thing up the neck, playing frets 6–10, or 8–12. This usually takes some time to figure out – I'm still becoming familiar with the notes north of the fifth fret! But that's why it's good practice.
 
 Limiting the frets in this way forces you to choose a different shaped triad for each note in the circle.
 
@@ -99,7 +99,7 @@ Repeat with each inversion. Or sometimes I just throw in a random inversion whil
 
 ### Step 5: Minor triads
 
-Rinse and repeat steps 2—4, but using minor triads instead. Figure out your shapes, and proceed from there.
+Rinse and repeat steps 2–4, but using minor triads instead. Figure out your shapes, and proceed from there.
 
 ```
  ↓     ↓     ↓

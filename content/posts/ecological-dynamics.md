@@ -68,7 +68,7 @@ Authentic tasks are those that have real-world relevance and utility, that integ
 
 Affordances refer to the possibilities for action that an environment offers. In both Ecological Dynamics and Constructivism, learners develop skills by recognising and responding to these opportunities. Rather than following a prescriptive set of steps, they calibrate their responses through repeated interactions with a dynamic environment, refining their intuition and judgment over time (attunement).
 
-In sports, this means athletes learn to perceive and exploit opportunities within a game—finding gaps in a defensive line, adjusting their positioning based on an opponent's movement, or intuitively reading a teammate's next move. The key is not rigid instruction but an adaptive, exploratory process that is refined with practice. 
+In sports, this means athletes learn to perceive and exploit opportunities within a game – finding gaps in a defensive line, adjusting their positioning based on an opponent's movement, or intuitively reading a teammate's next move. The key is not rigid instruction but an adaptive, exploratory process that is refined with practice. 
 
 In Constructivist education, attunement to affordances means that students refine their understanding by actively engaging with their learning environment and adjusting their approach in response to real challenges. Instead of absorbing abstract knowledge in isolation, they develop intuition through hands-on exploration, experimentation, and feedback.
 
