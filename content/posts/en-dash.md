@@ -18,4 +18,4 @@ Standout from the crowd! Make a political statement! Support human creativity! U
 
 While we're on the topic of punctuation, I'm very excited about 2026 being the year of the ellipsis! The unicode character "U+2026" is the [Horizontal Ellipsis](https://www.compart.com/en/unicode/U+2026), and it's one of my favourite characters. This will replace the pitiful U+2025 incumbent – the so-called "two dot leader" (‥).
 
-Did you know that you can type an ellipsis using the Option+; shortcut? Try it out! No more three-character "dot dot dots". Just think of the storage efficiency!
+Did you know that you can type an ellipsis using the Option+; shortcut? Try it out! No more three-character "dot dot dot". Just think of the storage efficiency!
