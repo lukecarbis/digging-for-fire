@@ -7,7 +7,7 @@ categories:
   - AI
 ---
 
-Pursuant to my previous post regarding the [en dash](/posts/en-dash) (wherein I beseech readers to consider British style selections for the dash parenthetical), I further propose the adoption of a little non-standard grammar to more plainly distinguish human writing for that which was contrived by large language models.
+Pursuant to my previous post regarding the [en dash](/posts/en-dash) (wherein I beseech readers to consider British style selections for the dash parenthetical), I further propose the adoption of a little non-standard grammar to more plainly distinguish human writing from that which was contrived by large language models.
 
 I'm not suggesting we simply make up new rules! However, we might consider leaning a little on historical precedent.
 
