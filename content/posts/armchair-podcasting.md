@@ -10,7 +10,7 @@ A great podcast depends on the natural rapport of the hosts.
 
 Social chemistry comes from mutual trust, respect, friendship, and experience. It also comes from your environment.
 
-More often than not, [my podcasts](https://prettygood.fm) are recorded over video chat, or even [asynchronously](https://diggingforfire.blog/posts/turn-based-podcasting/). But Pirate School has a different kind of magic.
+More often than not, [my podcasts](https://prettygood.fm) are recorded over video chat, or even [asynchronously](https://diggingforfire.blog/posts/turn-based-podcasting/). But the [Pirate School](https://pirateschool.fm) podcast has a different kind of magic.
 
 Talia and I record it on the couch. There's something about sitting on a lounge, arms spread, feet curled up, cushions, that makes for a much more conversational tone. It's fun, it's very easy (when would we ever find time to sit together in a podcasting studio?), and we're close at hand if the baby wakes up while we're recording.
 
