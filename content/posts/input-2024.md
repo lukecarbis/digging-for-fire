@@ -19,6 +19,8 @@ Here are the best and worst of my Inputs for 2024.
 
 <!--more-->
 
+---
+
 ## Books
 
 In 2024 I read 25 books – roughly one every two weeks. Of these, 36% were graphic novels, 32% were audiobooks, 20% were ebooks, 1 paperback, 1 hardcover, and 1 printed screenplay.
@@ -36,6 +38,8 @@ A thought-provoking and character-focused hard sci-fi, set in a near future apoc
 
 What a letdown! After thoroughly enjoying Cornwell's Sharpe series (my favourite book series ever written), I was desperately hoping that his ability to bring the Napoleonic wars to life would translate to the American Civil War. Alas, it did not. Despite a brief appearance by Sharpe's son and allusions to Sharpe's armaments, I found myself thoroughly bored.
 
+---
+
 ## Film
 
 In 2024 I saw 41 movies. Of these, 34% were seen in a cinema, 29% on my television, 2 on my MacBook, 2 on my iPhone, and 1 on a plane.
@@ -51,6 +55,8 @@ I'm not quite sure why critics mostly panned this film. I enjoyed it quite a lot
 ### Wooden Spoon: Madame Web
 
 Enough has already been said about this terrible picture. I mean, I hate to speak ill of a film – there's such a huge amount of work that goes into every single one. But a dud is a dud.
+
+---
 
 ## Television
 
