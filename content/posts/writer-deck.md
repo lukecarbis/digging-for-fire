@@ -1,7 +1,7 @@
 ---
 title: Writer Deck
-date: 2026-06-20T12:00:00+1000
-lastmod: 2026-06-20T12:00:00+1000
+date: 2026-06-09T03:00:00+1000
+lastmod: 2026-06-09T03:00:00+1000
 categories:
   - Tech
 ---
