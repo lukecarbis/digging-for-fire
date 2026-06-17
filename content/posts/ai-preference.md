@@ -20,6 +20,6 @@ If you care about your users, you'll ask them the question: What are your AI pre
 
 What _are_ your AI preferences? Are you a _cAIrnivore_ – the more AI the better (you simply can't comprehend how people prefer to go without)? Maybe you're _Gen Free_, happy for AI to understand and classify, but not generate images or text. You might be _Tool Intolerant_, happy for a service to use it's own internal AI, but not share it with external tools or data stores. Or perhaps you're an _AI Vegan_, and want it turned off entirely.
 
-My apologies for stretching the analogy to it's breaking point. I'm sure you get the idea: Give your users some control about how and when I use AI. It's just polite.
+My apologies for stretching the analogy to it's breaking point. I'm sure you get the idea: Give your users some control about how and when they encounter AI. It's just polite.
 
 Oh, by the way, if you happen to be in the area, [reach out](/contact). We'd love to invite you for Shabbat dinner.
