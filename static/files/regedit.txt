@@ -1,0 +1,43 @@
++++Disclaimer+++
+This document was intended to help network administrators fix any holes and all holes that exist in their system. It is NOT intended for student 'hackers' who wish to do the wrong thing by gaining unauthorised access to files, data and settings. Please do not use the information held in this document for the wrong thing. If you choose to do so I or any other party associated with this text do not take any responsibility for your actions and cannot be held to blame for the outcome.
+++++++++++++++++
+
+Okay here are some detailed instructions on how to get unrestricted access to the school computers at MCSHS. Some computer know-how necessary :
+
+First of all you need to be able to access C:/. Now, the school has blocked all explorer windows from viewing C:, so we are going to substitute it for another letter through DOS.
+
+Okay, open up Visual Basic and enter the code editor for the default form. For the form load, type the following.
+
+shell "command.com"
+
+When you press run, a DOS command prompt should appear in your task bar. Select it. Now it is time to substitute the drive letter. In the command prompt, type the following.
+
+subst j: c:/
+
+Okay, now we want to get access to the registry, to do that we have to hack it and make a copy of the original. We can do that in DOS also. Type the following.
+
+cd j:/winnt
+copy regedit.exe hackedreg.exe
+
+It is copied. Now we have to actually hack the copied file. We will use DOS for this also. Type the following.
+
+edit hackedreg.exe
+
+The DOS program called 'edit' should open up with the registry program in it. Most of it will be mumbo jumbo that is indecipherable. Look for the part which disallows access to the registry, it will say something like "registry editing has been disabled". Simply change any of the letters in the sentence and save it. Congratulations, you have hacked the registry.
+
+Now open word and go to the open menu and type j:/winnt into the location field. Right click anywhere in that folder and choose explore. You might want to copy the hackedreg.exe program to your Documents folder or your flash drive for future easy access. Now, open it up and press control-f to search.
+
+Search for the term nodesktop and once it has found that key, delete it and all the other keys that are in that registry folder. Quit. Now all that is left to do is restart explorer, you might find that you can access the control panels in your start menu though.
+
+To restart explorer, we need to restart it, but we can't use the three fingered salute (alt, control, delete) because our wonderful network administrators have blocked that also. We need to crash it. Fortunately, windows just so happens to be easy to crash, thanks to the lack of any ability whatsoever of micro$oft programmers to program a stable operating system. This is how it is done.
+
+Open up your documents folder and type this into the address:
+//123.123.123.123
+(you can use any three numbers you want, it is just a random IP).
+As soon as you press enter try repeatedly to close the window, this may take a few try's but you will get it eventually. It is a bit harder on faster machines.
+
+Wait for explorer to shit itself and restart and whalla! A nice desktop with some neat items and no restrictions whatsoever. Just like I promised.
+
+Now make your changes and if you log out straight after making them it should save them to that computer so you don't have to make them again next time.
+
+Thankyou.
