@@ -27,10 +27,10 @@ Beyond the scrollwheel and screen, the T-embed has a few other neat tricks up it
 
 {{< figure src="/images/t-embed-4.webp" alt="Custom daily to-do list firmware running on a LilyGO T-Embed." caption="The firmware includes a Torch and universal TV Remote." >}}
 
-All the data is saved into a json file, that I can sync, so I've got a backup of my days, and can transfer to a different hardware platform, or even to some iOS software if I want to in the future.
+All the data is saved into a json file which I can sync, so I've got a backup of my days, and can transfer to a different hardware platform, or even to some iOS software if I want to in the future.
 
 {{< figure src="/images/t-embed-5.webp" alt="Custom daily to-do list firmware running on a LilyGO T-Embed." caption="Connecting to a wifi network to sync saved data." >}}
 
-The best part is that it's all just for me. No monetisation strategy, no marketing, no customers, no stress. For what might be the first time in my life, I'm programming for me, not money.
+The best part is that it's all just for me. No monetisation strategy, no marketing, no customers, no stress. For the first time in a long time, I'm programming for me, not money.
 
 {{< figure src="/images/t-embed-6.webp" alt="Custom daily to-do list firmware running on a LilyGO T-Embed." caption="Built-in colour themes, just for fun." >}}
