@@ -1,7 +1,7 @@
 ---
 title: T-embed To Do
-date: 2026-07-30T10:00:00+1000
-lastmod: 2026-07-30T10:00:00+1000
+date: 2026-07-29T10:00:00+1000
+lastmod: 2026-07-29T10:00:00+1000
 categories:
   - Tech
   - Apps
