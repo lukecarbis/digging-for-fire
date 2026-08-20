@@ -1,0 +1,75 @@
+<div class="handwriting">
+  <img
+    class="handwriting-image"
+    src="{{ .Get "src" }}"
+    alt="A handwritten version of this post."
+  />
+
+  <pre class="handwriting-text" hidden>{{ trim .Inner " \t\r\n" }}</pre>
+
+  <button
+    type="button"
+    class="handwriting-toggle"
+    aria-label="Show transcription"
+    title="Show transcription"
+  >⌨︎</button>
+</div>
+
+<style>
+  .handwriting {
+    position: relative;
+    margin-block-start: 1em;
+  }
+
+  .handwriting-image {
+    width: 66%;
+    height: auto;
+    margin-left: 0;
+  }
+
+  .handwriting-text {
+    margin: 0;
+    white-space: pre-wrap;
+    font: inherit;
+  }
+
+  .handwriting-toggle {
+    color: var(--linkcolor);
+
+    appearance: none;
+    border: 0;
+    background: none;
+    padding: 0.25rem;
+
+    font: inherit;
+    font-size: 2rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  document.currentScript.previousElementSibling?.previousElementSibling
+    ?.querySelector('.handwriting-toggle')
+    ?.addEventListener('click', function () {
+      const handwriting = this.closest('.handwriting');
+      const image = handwriting.querySelector('.handwriting-image');
+      const text = handwriting.querySelector('.handwriting-text');
+
+      const showingText = !text.hidden;
+
+      image.hidden = !showingText;
+      text.hidden = showingText;
+      console.log(image.hidden, text.hidden);
+
+      this.textContent = showingText ? '⌨︎' : '✍︎';
+      this.setAttribute(
+        'aria-label',
+        showingText ? 'Show transcription' : 'Show handwriting'
+      );
+      this.setAttribute(
+        'title',
+        showingText ? 'Show transcription' : 'Show handwriting'
+      );
+    });
+</script>
